@@ -31,7 +31,7 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 - Ho suddiviso il tetto in sezioni per lavorare meglio.
 - Usato `Numpad /` per isolare le parti selezionate.
 
-### 6. **Creazione degli spazi (gap)**
+### 6. **Creazione degli specchi (gap)**
 - Inserito un *plane*, trasformato in una curva con `Shift + Ctrl + B` e *LoopTools*.
 - Convertito in mesh, poi usato `Subdivision Surface Modifier` (`Ctrl + 1`).
 - Unito oggetti e applicato nuovamente il *Mirror Modifier*.
@@ -40,13 +40,13 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 - Aggiunto un cilindro, ruotato e scalato per adattarlo al corpo del veicolo.
 
 ### 8. **Texturing**
-- Ho seguito un video su YouTube per applicare i materiali e le texture al modello.
+
 
 ## 📁 File inclusi
 - `.blend` file del progetto
-- Immagini di riferimento
+- Immagini del progetto
 - Screenshot dei progressi
-- File esportati (es. `.obj`, `.fbx`)
+
 
 ## 📌 Note
 - Tutto il lavoro è stato fatto manualmente, passo dopo passo, senza l’uso di asset prefabbricati.
@@ -54,11 +54,15 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 
 ## 📷 Anteprima
 
-*(Puoi inserire qui uno screenshot del modello completato)*
+![6](https://github.com/user-attachments/assets/edab312f-979b-4436-8c8e-17c7637d6bb7)
+
 
 ---
 
 ## ✅ Conclusione
 
-Questo progetto mi ha aiutato a migliorare le mie abilità in Blender, dalla modellazione base fino al texturing. In futuro, voglio aggiungere ulteriori dettagli, come gli interni dell'auto o una scena di presentazione con luci e sfondo realistici.
+Questo progetto mi ha aiutato a migliorare le mie abilità in Blender, dalla modellazione base fino al texturing. In futuro
+grazie
+
+Mohammed ASSlaoui
 
