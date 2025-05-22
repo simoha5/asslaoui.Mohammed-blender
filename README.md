@@ -1,6 +1,6 @@
 # 🚗 Modellazione 3D di un'Auto in Blender
 
-Questo progetto è stato realizzato per esercitarmi nella modellazione 3D con Blender. L'obiettivo era creare un modello realistico di un’auto, partendo da zero, utilizzando immagini di riferimento e diversi strumenti e tecniche offerte dal software.
+(Questo progetto è stato realizzato1-per l'esame di computer grafica, 2-per esercitarmi nella modellazione 3D con Blender.) L'obiettivo era creare un modello realistico di un’auto, partendo da zero, utilizzando immagini di riferimento e diversi strumenti e tecniche offerte dal software.
 
 ## 🎬 Ispirazione
 
@@ -49,7 +49,7 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 
 
 ## 📌 Note
-- Tutto il lavoro è stato fatto manualmente, passo dopo passo, senza l’uso di asset prefabbricati.
+- Tutto il lavoro è stato fatto manualmente, passo dopo passo.
 - L’obiettivo principale era apprendere le basi della modellazione 3D in Blender.
 
 ## 📷 Anteprima
@@ -61,7 +61,7 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 
 ## ✅ Conclusione
 
-Questo progetto mi ha aiutato a migliorare le mie abilità in Blender, dalla modellazione base fino al texturing. In futuro
+Questo progetto mi ha aiutato a migliorare le mie abilità in Blender, dalla modellazione base fino al texturing. 
 
 ## 👨‍💻 Autore
 
