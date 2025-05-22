@@ -31,7 +31,7 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 - Ho suddiviso il tetto in sezioni per lavorare meglio.
 - Usato `Numpad /` per isolare le parti selezionate.
 
-### 6. **Creazione degli specchi **
+### 6. Creazione degli specchi 
 - Inserito un *plane*, trasformato in una curva con `Shift + Ctrl + B` e *LoopTools*.
 - Convertito in mesh, poi usato `Subdivision Surface Modifier` (`Ctrl + 1`).
 - Unito oggetti e applicato nuovamente il *Mirror Modifier*.
