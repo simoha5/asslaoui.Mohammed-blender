@@ -62,7 +62,8 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 ## ✅ Conclusione
 
 Questo progetto mi ha aiutato a migliorare le mie abilità in Blender, dalla modellazione base fino al texturing. In futuro
-grazie
+
+## 👨‍💻 Autore
 
 Mohammed ASSlaoui
 
