@@ -6,7 +6,7 @@ Questo progetto è stato realizzato per esercitarmi nella modellazione 3D con Bl
 
 Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di auto come riferimento. Ho scaricato diverse immagini da internet da usare come blueprint in Blender.
 
-## 🛠️ Fasi del lavoro
+## 🛠️ Fasi del lavoro(Puoi trovare ulteriori dettagli all'interno dei file presenti nel repository).
 
 ### 1. **Modellazione base**
 - Ho aggiunto un *plane* e fuso i vertici centrali (`M → Merge`).
@@ -31,7 +31,7 @@ Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di
 - Ho suddiviso il tetto in sezioni per lavorare meglio.
 - Usato `Numpad /` per isolare le parti selezionate.
 
-### 6. **Creazione degli specchi (gap)**
+### 6. **Creazione degli specchi **
 - Inserito un *plane*, trasformato in una curva con `Shift + Ctrl + B` e *LoopTools*.
 - Convertito in mesh, poi usato `Subdivision Surface Modifier` (`Ctrl + 1`).
 - Unito oggetti e applicato nuovamente il *Mirror Modifier*.
