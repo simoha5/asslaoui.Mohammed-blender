@@ -2,9 +2,6 @@
 
 (Questo progetto è stato realizzato1-per l'esame di computer grafica, 2-per esercitarmi nella modellazione 3D con Blender.) L'obiettivo era creare un modello realistico di un’auto, partendo da zero, utilizzando immagini di riferimento e diversi strumenti e tecniche offerte dal software.
 
-## 🎬 Ispirazione
-
-Per iniziare, ho seguito un video tutorial su YouTube, utilizzando un modello di auto come riferimento. Ho scaricato diverse immagini da internet da usare come blueprint in Blender.
 
 ## 🛠️ Fasi del lavoro(Puoi trovare ulteriori dettagli all'interno dei file presenti nel repository).
 
